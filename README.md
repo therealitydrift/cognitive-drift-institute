@@ -30,9 +30,9 @@ The institute provides a research infrastructure for understanding how cognition
 
 ## Why This Exists
 
-Modern cognitive environments rarely fail outright. They continue to function, remain productive, and reward optimization even as human understanding, judgment, and coherence gradually weaken. The failure mode of interest is persistent functionality despite weakened correction and feedback.
+Modern cognitive environments rarely fail in obvious ways. They continue to function and produce results, even when feedback loops weaken and judgment becomes less reliable. Performance can remain stable while alignment with underlying reality gradually erodes.
 
-Cognitive Drift documents and models this gap before it is taken for granted as a normal feature of contemporary thinking. The institute focuses on identifying and describing the structural conditions that contribute to cognitive strain, simplification, and distortion.
+The Cognitive Drift Institute studies this pattern. It documents and models how sustained optimization pressure, information overload, and representational abstraction can strain human cognition. The focus is on identifying structural conditions that contribute to cognitive simplification, distortion, and reduced corrective capacity.
 
 ---
 
@@ -105,13 +105,13 @@ Stable patterns in how individuals and systems compress information under noise.
 
 ---
 
-## Book
+## The Age of Drift - Collected Writings
 
 **The Age of Drift: Why Modern Life Feels Fake — and What Reality Drift Reveals About the Modern Mind**
 
 - **Amazon**: [The Age of Drift on Amazon](https://www.amazon.com/Age-Drift-Modern-Reality-Reveals/dp/B0G5JV6GFQ)
 
-- **Google Books**: [The Age of Drift on Google Books](https://www.google.com/books/edition/The_Age_of_Drift_Why_Modern_Life_Feels_F/LHqgEQAAQBAJ)
+- **Google**: [The Age of Drift on Google Books](https://www.google.com/books/edition/The_Age_of_Drift_Why_Modern_Life_Feels_F/LHqgEQAAQBAJ)
 
 ---
 
@@ -127,18 +127,13 @@ Stable patterns in how individuals and systems compress information under noise.
 
 ## Research & Archives
 
-- **Figshare (Core Account)**: https://figshare.com/authors/Cognitive_Drift_Institute/22278802
-
-- **OSF**  
-  [OSF](https://osf.io/k2rgp/overview)
+- **Figshare**: https://figshare.com/authors/Cognitive_Drift_Institute/22278802
 
 - **ORCID**  
   [ORCID](https://orcid.org/0009-0002-7251-9875)
 
 - **Academia.edu**  
   [A. Jacobs - Independent Researcher](https://independent.academia.edu/AJacobs9)
-
-- **Goodreads (Author Profile)**: [A. Jacobs - Independent Researcher](https://independent.academia.edu/AJacobs9)
 
 ## Publishing & Commentary
 
